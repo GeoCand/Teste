@@ -2,7 +2,7 @@
 
 int main () {
 
-    printf("Suck my dick");
+    printf("Hello world");
 
     return 0;
 }
